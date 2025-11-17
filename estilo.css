@@ -63,14 +63,3 @@ button:hover {
     background-color: #ff4757;
 }
 
-.links {
-    margin: 0 10px;
-    text-decoration: none;
-    color: #fff;
-    font-weight: bold;
-    transition: color 0.3s;
-}
-
-.links a:hover {
-    color: #ff6b6b;
-}
